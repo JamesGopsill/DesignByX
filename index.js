@@ -13,7 +13,7 @@ Metalsmith(__dirname)
     generatorUrl: 'http://www.metalsmith.io'
   })
   .source('./src')
-  .destination('./build')
+  .destination('./docs')
   .clean(true)
   .use(collections({
     posts: 'posts/*/*.md'
