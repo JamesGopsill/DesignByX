@@ -8,7 +8,7 @@ Metalsmith(__dirname)
   .metadata({
     sitename: 'Design By X',
     siteurl: 'https://jamesgopsill.github.io/DesignByX/',
-    description: '',
+    description: 'Generating new methods for designing highly customised and personalised products',
     generatorName: 'Metalsmith',
     generatorUrl: 'http://www.metalsmith.io'
   })
