@@ -1,0 +1,3 @@
+---
+layout: main-page.html
+---
